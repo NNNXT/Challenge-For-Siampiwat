@@ -1,0 +1,38 @@
+name: challenge
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: 3.2.3
+  cupertino_icons: 1.0.2
+  easy_localization: 3.0.1
+  flutter_staggered_grid_view: 0.6.2
+  fluttertoast: 8.0.9
+  font_awesome_flutter: 10.3.0
+  go_router: 6.0.5
+  intl: 0.17.0
+  json_annotation: 4.6.0
+  provider: 6.0.5
+  qr_flutter: 4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: 2.2.0
+  flutter_lints: 2.0.0
+  json_serializable: 6.3.1
+
+flutter:
+  assets:
+    - lib/mock/
+    - res/language/
+
+  uses-material-design: true

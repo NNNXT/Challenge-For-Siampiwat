@@ -1,0 +1,28 @@
+{
+    "main": {
+        "home": "Home",
+        "saved": "Saved",
+        "cart": "Cart",
+        "home_title": "For You"
+    },
+    "saved": {
+        "add_product": "Add to your save",
+        "remove_product": "Remove to your save",
+        "empty": "There are no saved product."
+    },
+    "cart": {
+        "total": "Total : ",
+        "checkout": "Checkout",
+        "delete_success": "Delete Item Cart Success",
+        "empty": "Your shopping cart is empty"
+    },
+    "product_detail": {
+        "add_cart_complete": "Add Cart Complete",
+        "add_cart_error": "You already have 1 quantity in cart.",
+        "add_to_cart": "Add To Cart"
+    },
+    "checkout": {
+        "title": "Checkout",
+        "payment": "Scan & Pay"
+    }
+}
